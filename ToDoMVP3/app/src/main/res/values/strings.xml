@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoMVP3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">DELETE</string>
+    <string name="saveToDo">SAVE TO-DO ITEM</string>
+</resources>
